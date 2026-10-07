@@ -217,4 +217,4 @@ LEGO Digital Designer is the official complete free version with all features an
 Start building your dream LEGO creations today with LEGO Digital Designer! Download now and let your imagination soar!
 
 ---
-**Last updated:** 2026-10-07 17:34:41 UTC
+**Last updated:** 2026-10-07 22:22:16 UTC
